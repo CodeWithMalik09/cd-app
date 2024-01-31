@@ -1,2 +1,2 @@
-# cd_app
+# cd-app
 Coaching Detail APP
